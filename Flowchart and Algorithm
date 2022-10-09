@@ -1,4 +1,20 @@
 1. Differentiate Flowchart and Algorithm.
-An algorithm is a procedure or set of rules that defines how a program is to be executed. Or we can say that it is a set of instructions for solving a well-defined computational problem. Flowchart on the other hand  is a graphical representation of the steps a program takes to process data. In this, we can use several geometric patterns to illustrate the numerous actions the program carries out. 
-With the help of the flowchart, the designer can efficiently segregate the various elements of the process. Also, it facilitates the analysis by giving step-by-step instructions on the problem. An algorithm is a step-by-step summary of the procedure, while on the other hand, a flowchart illustrates the steps of a program graphically.
+An algorithm is a procedure or set of rules that defines how a program is to be executed. Or we can say that it is a set of instructions for solving a well-defined computational problem. 
+Flowchart on the other hand  is a graphical representation of the steps a program takes to process data. In this, we can use several geometric patterns to illustrate the numerous actions the program carries out. 
+With the help of the flowchart, the designer can efficiently segregate the various elements of the process. Also, it facilitates the analysis by giving step-by-step instructions on the problem. An algorithm is
+a step-by-step summary of the procedure, while on the other hand, a flowchart illustrates the steps of a program graphically.
 
+2. Discuss a brief history of Flowchart.
+1921 - Industrial engineers Frank and Lillian Gilbreth introduced the “Flow Process Chart” to the American Society of Mechanical Engineers (ASME).
+1930 - Industrial engineer Allan H. Morgensen used Gilbreth’s tools to present conferences on making work more efficient to business people at his company. 
+1940 - In the 1940s, two Morgensen students, Art Spinanger and Ben S. Graham, spread the methods more widely. Spinanger introduced the work simplification methods to Procter and Gamble. Graham, 
+a director at Standard Register Industrial, adapted flow process charts to information processing. Also in the late ‘40s, Herman Goldstine and John Van Neumann used flowcharts to develop computer programs, 
+and diagramming soon became increasingly popular for computer programs and algorithms of all kinds. Flowcharts are still used for programming today, although pseudocode, a combination of words and coding language 
+meant for human reading, is often used to depict deeper levels of detail and get closer to a final product.
+1947 - ASME adopted a symbol system for Flow Process Charts, derived from the Gilbreths’ original work.
+In Japan, Kaoru Ishikawa (1915-1989), a key figure in quality initiatives in manufacturing, named flowcharts as one of the key tools of quality control, along with complementary tools such as the Histogram, 
+Check Sheet and Cause-and-Effect Diagram, now often called the Ishikawa Diagram.
+3. Flowcharts Symbol and Meanings. 
+Please see in Canvas comment.
+4. Create an Algorithm and Flowchart to find the Area of the Square.
+Please see in Canvas comment section as well.
